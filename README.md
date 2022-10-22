@@ -1,12 +1,17 @@
 ## Hunger Captain
 
 ```
-This is an online food menu service for HungerCaptain restaurants. These days, when you visit a restaurant, you often use the QR code to load the PDF of the menu. It has no image and is not easy to select items. So we created the menu app where you can see food images with the needed information and select your items easily. During such unprecedented time and social distancing, online menu card technology is a boon!
+This is an online food menu service for HungerCaptain restaurants.
+These days, when you visit a restaurant, you often use the QR code
+to load the PDF of the menu. It has no image and is not easy to select items
+. So we created the menu app where you can see food images with the needed
+information and select your items easily. During such unprecedented time and
+social distancing, online menu card technology is a boon!
 
 ```
-**This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://hungercap-frontend1.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://hungercap-backend1.herokuapp.com/) here!!
+**This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
+Check out [FRONTEND LIVE DEMO](https://hunger-captain-frontend.zuenauwimana.repl.co/) here!!
+Check out [API LIVE DEMO](https://hunger-captian-backend.zuenauwimana.repl.co/) here!!
 
 ## Tech used
 
@@ -17,7 +22,7 @@ Check out [API LIVE DEMO](https://hungercap-backend1.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/SerenityK/hungercaptain-serenity
+1. Git Clone 
 
 ```
 
