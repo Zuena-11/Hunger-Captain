@@ -31,7 +31,6 @@ Check out [API LIVE DEMO](https://hunger-captian-backend.zuenauwimana.repl.co/) 
 
 2. Backend setting
 ```
-
 cd backend
 Python -m venv env
 (For Mac) source env/bin/activate
@@ -50,7 +49,6 @@ python manage.py fixtures/dummy-data.json
 ```
 3. Frontend setting
 ```
-
 cd frontend
 npm install
 npm start
