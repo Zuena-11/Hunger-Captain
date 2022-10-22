@@ -41,9 +41,9 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 
-# Open http://127.0.0.1:8000/
+ Open http://127.0.0.1:8000/
 
-# To have dummy data for testing run:
+ To have dummy data for testing run:
 
 python manage.py fixtures/dummy-data.json
 
@@ -55,7 +55,7 @@ cd frontend
 npm install
 npm start
 
-# Open http://127.0.0.1:3000/
+ Open http://127.0.0.1:3000/
 
 ```
 ```
